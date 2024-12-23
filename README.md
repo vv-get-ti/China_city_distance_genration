@@ -1,3 +1,5 @@
-# China_city_distance_genration
-you can genration random to  citys  modifiy test.py 
-基于https://github.com/BI3QXJ/china_city_distance做的两个城市间的生成脚本
+# 使用说明
+
+1. 可参数方式调用, 如`python calc_distance.py 北京 南京`
+2. 可交互方式输入, 直接使用`python calc_distance.py`
+3. 当城市名称无法通过模糊匹配取得唯一结果时, 需要输入更准确的结果
